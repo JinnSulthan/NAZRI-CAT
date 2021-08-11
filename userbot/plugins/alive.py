@@ -43,7 +43,7 @@ async def amireallyalive(alive):
             f"**{EMOJI} Python Version :** `{python_version()}\n`"
             f"**{EMOJI} Uptime :** `{uptime}\n`"
             f"**{EMOJI} Master:** {mention}\n\n"
-                          "   **[❣️DEPLOY NAZRIYA_CAT❣️]**(https://github.com/MR-JINN-OF-TG/NAZRI-CAT) ",
+                          "   **[MR-JINN-OF-TG]**(https://t.me/MR_JINN_OF_TG) ",
           )
      
 
